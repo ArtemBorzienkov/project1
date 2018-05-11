@@ -1,5 +1,5 @@
 body{
-  background-image: url(bg_image.jpg);
+  background-image:url(https://hdqwalls.com/download/dark-road-covered-by-mountains-wv-2560x1700.jpg);
   background-size: cover;
   background-color: #001820;
   background-image: hsla(180,0%,50%,0.25);
@@ -15,7 +15,7 @@ svg.awesome{
   transform:scale(0.6, 0.6);
 
 }
-div1.text{
+div.text{
   font-family: "Raleway Semi Bold","Raleway Semi Bold", sans-serif;
   font-weight: normal;
   color:#ffffff;
